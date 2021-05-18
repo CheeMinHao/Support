@@ -3,7 +3,7 @@ name: Join Coden GitHub
 about: Create an Issue to join Coden on GitHub
 title: Join Coden on GitHub
 labels: Join Coden GitHub
-assignees: LeeRenJie
+assignees: yudhx, LeeRenJie
 
 ---
 
