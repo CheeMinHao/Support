@@ -22,15 +22,16 @@ This might be your first step in getting your feet wet to be an open-source cont
 
 <!-- Required Details -->
 
-## Name: <Enter Your Name Here>
+#### Name: <Enter Your Name Here>
 
-## Discord Username: <Enter Your Discord Username>
+#### Discord Username: <Enter Your Discord Username>
 
-<!--https://discord.gg/rSKKKZEnVn (link to our discord server)-->
+#### Why do you hope to be one of us? 
+> No reason
 
-> Add Ons (Optional):
+> Add Ons (optional):
 <!--Where did you find us?-->
 
 <!--What do you like about this community?-->
 
-<!--Why do you hope to be one of us?-->
+<!--https://discord.gg/rSKKKZEnVn (link to our discord server)-->
